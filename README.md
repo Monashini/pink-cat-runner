@@ -63,6 +63,13 @@ https://monashini.github.io/pink-cat-runner/
 
 ---
 
+
+## Game Preview
+
+![Mona Run Preview](game.png)
+
+
+   
 ## Author
 
 **Monashini S**
